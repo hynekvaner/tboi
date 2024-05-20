@@ -1,0 +1,17 @@
+
+
+body{
+    background-color:burlywood;
+}
+
+.mainHeader{
+    text-align: center;
+}
+
+nav{
+    text-decoration: none;
+}
+
+h2{
+    padding-left: 15px;
+}
