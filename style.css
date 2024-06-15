@@ -1,6 +1,7 @@
 
 
 body{
+    margin: 5px;
     text-align: center;
     background-color:rgb(32, 32, 32);
     color:rgb(223, 223, 223)
@@ -35,3 +36,11 @@ a:hover{
 p{
     margin: 15px;
 }
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(8, 8, 8);
+      font-size: large;
+    }
+  }
