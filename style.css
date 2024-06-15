@@ -6,6 +6,7 @@ body{
     color:rgb(223, 223, 223)
     
 }
+
 ul{
     list-style-type: none;
 }
@@ -23,9 +24,10 @@ a:hover{
     color:white
 }
 .footer { 
+    text-align: left;
     font-size: small;  
     position:fixed;
-    left:0px;
+    left: 10px;
     bottom:0px;
     height:30px;
     width:100%;
